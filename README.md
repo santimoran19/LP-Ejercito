@@ -71,7 +71,7 @@ No requiere servidor ni instalación. Simplemente abrí el archivo principal en 
 
 ```bash
 # Cloná el repositorio
-git clone https://github.com/tu-usuario/reclutamiento-cordoba.git
+git clone https://github.com/santimoran19/LP-Ejercito.git
 
 # Abrí index.html en tu navegador
 open landing/index.html
